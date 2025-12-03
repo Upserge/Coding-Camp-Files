@@ -1,0 +1,68 @@
+﻿/*This is the styles sheet for our Kohl's website mock up*/
+/*This is a comment - MACRO: "CTRL+/" */
+
+.wrapper{
+    height: 100vh;
+    width: 100%;
+}
+
+/* These are all our navigation classes*/
+.top-nav{
+    height: 75px;
+    width: 100%;
+    padding-bottom: 12px;
+    border-bottom: thin solid #CCCCCC;
+}
+
+.middle-nav {
+    height: 40px;
+    width: 100%;
+    border-bottom: thin solid #CCCCCC;
+}
+
+.category-nav {
+    height: 50px;
+    width: 100%;
+    border-bottom: thin solid #CCCCCC;
+}
+
+
+/*These are all our button classes*/
+
+.logo {
+    padding-top: 10px;
+    padding-left: 20px;
+    margin-top: 10px;
+}
+
+.cart-button {
+    float: right;
+    margin-top: 0px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.sign-in-button {
+    float: right;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+.my-list-button {
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+/*Search bar class*/
+
+.searchBar {
+    width: 24%;
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border: thin solid #CCCCCC;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-size: 18px;
+}
