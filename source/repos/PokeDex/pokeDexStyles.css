@@ -184,11 +184,25 @@ button, input, select, textarea {
     text-transform: capitalize;
 }
 
-/* Example type colors you can override per-type in markup (e.g., .type-fire) */
+
+/* Pokemon Type colorings */
 .type-fire { background: linear-gradient(180deg,#ffb86b,#ff8c4b); }
 .type-water { background: linear-gradient(180deg,#79bfff,#4aa3ff); }
 .type-grass { background: linear-gradient(180deg,#9fe39f,#57c77a); }
 .type-electric { background: linear-gradient(180deg,#fff386,#ffd24a); }
+.type-ice { background: linear-gradient(180deg,#ddf7f6,#96e6e6); }
+.type-poison { background: linear-gradient(180deg,#cfa0d6,#a33ea1); }
+.type-ground { background: linear-gradient(180deg,#f0d9a4,#e2bf65); }
+.type-flying { background: linear-gradient(180deg,#d8c9ff,#a98ff3); }
+.type-psychic { background: linear-gradient(180deg,#ffb3bf,#f95587); }
+.type-bug { background: linear-gradient(180deg,#dff08a,#a6b91a); }
+.type-rock { background: linear-gradient(180deg,#d9c69a,#b6a136); }
+.type-ghost { background: linear-gradient(180deg,#b99ed8,#735797); }
+.type-dragon { background: linear-gradient(180deg,#a78bff,#6f35fc); }
+.type-dark { background: linear-gradient(180deg,#a0897a,#705746); }
+.type-steel { background: linear-gradient(180deg,#dcdcdf,#b7b7ce); }
+.type-fairy { background: linear-gradient(180deg,#f6c7d9,#d685ad); }
+
 
 /* Image area */
 .card-image {
